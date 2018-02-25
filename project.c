@@ -2,5 +2,5 @@
 
 void main()
 {
-    printf("Hello World - automated build\n");
+    printf("Hello World - automated build2\n");
 }
